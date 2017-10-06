@@ -1,0 +1,25 @@
+body {
+	background-color: #709673;
+	background-image: url(imgs/dog.png);
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-attachment: fixed;
+}
+.doggo {
+	width: 100%;
+}
+.fa {
+	color: black;
+}
+.row {
+	background-color: #709673;
+}
+.card {
+	background-color: #eaeaea;
+}
+.card-title {
+	font-weight: bold;
+}
+.navbar {
+	background-color: #709673;
+}
